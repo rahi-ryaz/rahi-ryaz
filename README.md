@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rahi-ryaz
 - 👀 I’m interested in Software Development with major focus on Web Development 
 - 🌱 I’m currently learning MERN STACK
-- 💞️ I’m looking to collaborate on ...
 - 📫 reach me at rahireyaz.iitb@gmail.com
 
 
