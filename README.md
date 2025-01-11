@@ -41,6 +41,6 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ## 📌 Pinned Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rahi-ryaz&repo=your-repo-1)](https://github.com/rahi-ryaz/your-repo-1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rahi-ryaz&repo=your-repo-2)](https://github.com/rahi-ryaz/your-repo-2)
+
 
 Thanks for visiting my profile! 😊
